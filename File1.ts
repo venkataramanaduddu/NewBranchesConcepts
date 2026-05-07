@@ -6,4 +6,13 @@ again modifed in the brach 1 file
 again modified in the branch 2
 
 
+
+modified for confirmation conflicts changes in branch2
+
 branch1 file modified for conflict changes
+
+new data in git server.
+
+
+
+
